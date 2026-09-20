@@ -1,0 +1,172 @@
+[
+  {
+    "id": "p001",
+    "name": "Lip combo 3 en 1 ",
+    "category": "Beauté",
+    "price": 3500,
+    "origin": "",
+    "inStock": true,
+    "description": "Trio lèvres : crayon contour + gloss hydratant + rouge à lèvres mat, dans un seul combo.",
+    "images": [
+      "/products/OLIBOLLA Three Color Makeup Set Matte Lip Liner+Hydrating Lip Gloss Lipstick.jpg",
+      "/products/Olibolla1.jpeg",
+      "/products/Olibolla2.jpeg",
+      "/products/Olibolla3.jpeg"
+    ],
+    "variants": [
+      { "name": "Couleur", "options": [
+        {"label": "01", "image": "/products/Olibolla1.jpeg"},
+        {"label": "02", "image": "/products/Olibolla2.jpeg"},
+        {"label": "03", "image": "/products/Olibolla3.jpeg"}
+      ] }
+    ]
+  },
+
+  {
+    "id": "p002",
+    "name": "Ventouses en silicone",
+    "category": "Accessoires",
+    "price": 500,
+    "origin": "",
+    "inStock": true,
+    "description": "Coupe fluide, tissu satiné, disponible en plusieurs coloris.",
+    "images": ["/products/54324739251805534.jpg", "/products/Ventouse.jpeg"],
+    "variants": [
+      { "name": "Couleur", "options": [
+        {"label": "Blanc", "image": ""},
+        {"label": "Noir", "image": ""},
+        {"label": "Bleu sombre", "image": ""},
+        {"label": "Bleu clair", "image": ""},
+        {"label": "Rose", "image": ""},
+        {"label": "Marron", "image": ""},
+        {"label": "Violet", "image": ""}
+      ] }
+    ]
+  },
+
+  {
+    "id": "p003",
+    "name": "Mousse nettoyante",
+    "category": "Beauté",
+    "price": 2000,
+    "origin": "",
+    "inStock": true,
+    "description": "Mousse nettoyante visage, texture légère, adaptée à tout type de peaux.",
+    "images": [
+      "/products/Mousse.jpeg",
+      "/products/Mousse1.jpeg",
+      "/products/Mousse2.jpeg",
+      "/products/Mousse3.jpeg",
+      "/products/Mousse4.jpeg",
+      "/products/Mousse5.jpeg"
+    ],
+    "variants": [
+      { "name": "Options", "options": [
+        {"label": "Avocat", "image": "/products/Mousse1.jpeg"},
+        {"label": "Tumeric", "image": "/products/Mousse2.jpeg"},
+        {"label": "Riz", "image": "/products/Mousse3.jpeg"},
+        {"label": "Vitamine C", "image": "/products/Mousse4.jpeg"},
+        {"label": "Collagen", "image": "/products/Mousse5.jpeg"}
+      ] }
+    ]
+  },
+
+  {
+    "id": "p004",
+    "name": "Miroir Led à 3 couleurs",
+    "category": "Accessoires",
+    "price": 4000,
+    "origin": "",
+    "inStock": true,
+    "description": "Miroir girly avec éclairage LED réglable sur 3 tons.",
+    "images": [
+      "/products/Espelho com led.jpg",
+      "/products/WhatsApp Image 2026-08-05 at 22.40.03.jpeg",
+      "/products/miroir1.jpeg",
+      "/products/Miroir2.jpeg"
+    ],
+    "variants": [
+      { "name": "Couleurs", "options": ["Blanc", "Rose"] }
+    ]
+  },
+
+  {
+    "id": "p005",
+    "name": "Faux-ongles",
+    "category": "Accessoires",
+    "price": 2000,
+    "origin": "",
+    "inStock": true,
+    "description": "Set de faux-ongles à coller, pose facile, tenue longue durée.",
+    "images": [
+      "/products/Falsenails.jpeg",
+      "/products/Falsenails1.jpeg",
+      "/products/Falsenails2.jpeg",
+      "/products/Falsenails3.jpeg",
+      "/products/Falsenails4.jpeg"
+    ],
+    "variants": [
+      { "name": "Options", "options": [
+        {"label": "01", "image": "/products/Falsenails1.jpeg"},
+        {"label": "02", "image": "/products/Falsenails2.jpeg"},
+        {"label": "03", "image": "/products/Falsenails3.jpeg"},
+        {"label": "04", "image": "/products/Falsenails4.jpeg"}
+      ] }
+    ]
+  },
+
+  {
+    "id": "p006",
+    "name": "Poudre scintillante",
+    "category": "Beauté",
+    "price": 1500,
+    "origin": "",
+    "inStock": true,
+    "description": "Poudre scintillante pour le corps ou le visage.",
+    "images": ["/products/POUDRE.jpeg", "/products/WhatsApp Image 2026-08-05 at 23.42.28 (2).jpeg"]
+  },
+
+  {
+    "id": "p007",
+    "name": "Montre",
+    "category": "Accessoires",
+    "price": 3500,
+    "origin": "",
+    "inStock": true,
+    "description": "Montre en polycarbone, plusieurs coloris",
+    "images": [
+      "/products/Montre.jpeg",
+      "/products/Montre1.jpeg",
+      "/products/Montre2.jpeg",
+      "/products/Montre3.jpeg"
+    ],
+    "variants": [
+      { "name": "Couleurs", "options": [
+        {"label": "Noir", "image": "/products/Montre1.jpeg"},
+        {"label": "Noir dégradé", "image": "/products/Montre2.jpeg"},
+        {"label": "Beige dégradé", "image": "/products/Montre3.jpeg"}
+      ] }
+    ]
+  },
+
+  {
+    "id": "p008",
+    "name": "Masque de visage",
+    "category": "Beauté",
+    "price": 200,
+    "origin": "",
+    "inStock": true,
+    "description": "Masque de visage en tissu, à choisir selon l'effet recherché.",
+    "images": ["/products/WhatsApp Image 2026-08-05 at 23.42.27.jpeg"],
+    "variants": [
+      { "name": "Options", "options": [
+        {"label": "Avocat", "image": ""},
+        {"label": "Thé vert", "image": ""},
+        {"label": "Comcombre", "image": ""},
+        {"label": "Miel", "image": ""},
+        {"label": "Aloe Vera", "image": ""},
+        {"label": "Promegranate", "image": ""}
+      ] }
+    ]
+  }
+]
