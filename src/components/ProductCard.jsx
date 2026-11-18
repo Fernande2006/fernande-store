@@ -42,21 +42,21 @@ export default function ProductCard({ product }) {
           {product.description}
         </p>
 
-        <div className="mt-4 flex items-center justify-between gap-3">
-          <span className="font-display text-lg text-ink">
-            {product.price.toLocaleString("fr-FR")}{" "}
-            <span className="text-xs font-body text-ink-soft">{siteConfig.currency}</span>
-          </span>
-          <a
-            href={getProductOrderLink(product)}
-            target="_blank"
-            rel="noopener noreferrer"
-            onClick={(e) => e.stopPropagation()}
-            className="text-xs font-medium bg-ink text-paper px-3.5 py-2 rounded-sm hover:bg-route transition-colors whitespace-nowrap"
-          >
-            Commander
-          </a>
-        </div>
+        <div className="mt-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-3">
+  <span className="font-display text-lg text-ink">
+    {product.price.toLocaleString("fr-FR")}{" "}
+    <span className="text-xs font-body text-ink-soft">{siteConfig.currency}</span>
+  </span>
+  <a
+    href={getProductOrderLink(product)}
+    target="_blank"
+    rel="noopener noreferrer"
+    onClick={(e) => e.stopPropagation()}
+    className="text-xs font-medium bg-ink text-paper px-3.5 py-2 rounded-sm hover:bg-route transition-colors text-center whitespace-nowrap w-full sm:w-auto"
+  >
+    Commander
+  </a>
+</div>
       </div>
     </article>
   );
